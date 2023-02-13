@@ -1,0 +1,22 @@
+body{
+  width:800px;
+  height:800px;
+  border:1px solid black;
+  font-size: 80px;
+  
+}
+#row{
+     width:800px;
+     height:100px;
+     display:flex;
+}
+.box1{
+      width: 100px;
+      height: 100px;
+      background-color:grey;
+      border:1px solid black;
+}
+.box{
+  width:100px;
+  height:100px;
+}
